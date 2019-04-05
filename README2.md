@@ -19,7 +19,7 @@ class Main
       System.out.println("Mine: Who are you?");
       System.out.println("Apex: " + a.keywordResponsePairs[0][1]);
       System.out.println("Mine: " + b.getRandomQuestion());
-      System.out.println("Apex: Listen, I don't know what I'm doing here, but we both know we need to find a way out of here, whatever this place is.");
+      System.out.println("Apex: Listen, I don't know what I'm doing here, but we both know we need to find a way out of           here, whatever this place is.");
       System.out.println("Mine: Yea, you're right.");
       System.out.println("Mine: *Checks Inventory* || Current Tools: " + b.myTools + " ||");
       System.out.println("Mine: All my tools are broken too!");
@@ -37,9 +37,9 @@ class Main
       System.out.println("Mine: " + b.getRandomQuestion());
       System.out.println("Apex: Bro, I'm in the middle of a game right now and I'm close to becoming the Apex Champion.");
       System.out.println("Mine: Ohhhhhhhh. So that's what this place is.");
-      System.out.println("Apex: Yeah. I just said that I didn't know where I was earlier because I'm new to this game and I was just a little confused.");
+      System.out.println("Apex: Yeah. I just said that I didn't know where I was earlier because I'm new to this game and I       was just a little confused.");
       System.out.println("Mine: Oh okay. Anyways, how many people are left??");
-      System.out.println("Apex: It's me and one other person. So, if you will excuse me, I gotta get moving. I won't be back this time so you dont gotta worry.");
+      System.out.println("Apex: It's me and one other person. So, if you will excuse me, I gotta get moving. I won't be back       this time so you dont gotta worry.");
       System.out.println("\\\\\\\\\\\\|-| PORTAL ACTIVATED. |-|/////////");
       System.out.println("Mine: Alright, well I'll see ya later!");
       System.out.println("Apex: " + a.getGoodbye());
