@@ -87,15 +87,6 @@ public class MinecraftBot extends Chatbot
   {
     myTools = tools;
   }
-
-
-  // ###################### interesting methods
-
-  
-///////////////  properties   //////////////////////////////////
-
-  // properties (aka instance variables, fields, instance fields)
-
   private String[] myGreetings;             // greeting messages
   private String[] myRandomQuestions;       // random questions
   private int myInventorySpace;             // space of the inventory
@@ -103,4 +94,4 @@ public class MinecraftBot extends Chatbot
   private double myHealth;                  // a decimal number betw 0 and 10 where 10 is best health
   public boolean myTools;                   // true - he has tools; false - he has no tools
 
-}// end of the MinecraftBot class
+}// end of the MinecraftBot classpublic class MinecraftBot extends Chatbot
